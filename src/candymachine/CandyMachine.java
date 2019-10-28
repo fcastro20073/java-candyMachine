@@ -17,9 +17,11 @@ public class CandyMachine {
     public static void main(String[] args) {
         System.out.println("Welcome to CHS's Comptuer Candy Machine!");
         System.out.println("All candy provided is virtual.");
-        
-        
+                
         // Happy Coding!
+        
+        
+        
     }
     
 }
