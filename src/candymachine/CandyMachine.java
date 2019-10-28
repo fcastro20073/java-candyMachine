@@ -15,7 +15,11 @@ public class CandyMachine {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Welcome to CHS's Comptuer Candy Machine!");
+        System.out.println("All candy provided is virtual.");
+        
+        
+        // Happy Coding!
     }
     
 }
